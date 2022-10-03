@@ -12,3 +12,5 @@ No queremos llamarnos *marketplace* porque **Zerod** está formado por personas,
 
 - B2B Sales Specialist
 - Fullstack Developer
+
+![Logo de Zerod](410ACDF2-8336-41DF-BA14-B998DE7097FE.png)

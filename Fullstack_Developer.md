@@ -22,7 +22,7 @@
 
 ## ¿Quiénes somos?
 
-Nacida al inicio de 2022 en Barcelona, **Zerod** es una comunidad creada por hackers y para hackers con la visión de hacer accesible el acceso al Pentesting y otros procesos y herramientas de ciberseguridad, eliminando intermediarios 🔒
+Nacida al inicio de 2022 en Barcelona, **Zerod** es una comunidad creada por hackers y para hackers con la visión de simplicar el acceso al Pentesting y otros procesos y herramientas de ciberseguridad, eliminando intermediarios 🔒
 
 No queremos llamarnos *marketplace* porque **Zerod** está formado por personas, pero podríamos decir que estamos en camino de convertirnos en el primer *marketplace* de ciberseguridad de la historia 🏛️
 

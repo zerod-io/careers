@@ -11,6 +11,6 @@ No queremos llamarnos *marketplace* porque **Zerod** está formado por personas,
 ## Posiciones abiertas
 
 - B2B Sales Specialist
-- Fullstack Developer
+- [Fullstack Developer](Fullstack_Developer.md)
 
 ![Logo de Zerod](410ACDF2-8336-41DF-BA14-B998DE7097FE.png)

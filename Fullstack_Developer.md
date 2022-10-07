@@ -41,7 +41,7 @@ El principal reto que tenemos en marcha es la evolución de la plataforma online
 
 - Incorporación de nuevas características
 - Mejora de caracteríticas ya activas
-- Trabajos de automatizaciónj de procesos
+- Trabajos de automatización de procesos
 
 Sabemos que es muy difícil que una persona conozca todas las tecnologías que aquí estamos usando, así que comprendemos que necesitarás un tiempo para aprender y afianzar conocimientos en alguna materia. Puedes estar tranquilo porque no lo hemos complicado demasiado :smiley:
 
@@ -60,7 +60,7 @@ A medio plazo,
 
 El contrato que ofrecemos es **_Full Remote_** pero nos gustaría que vivieras en las inmediaciones de **Barcelona**. 
 
-Esto es porque nos gusta juntarnos de vez en cuando. En una *startup* joven, creemos el trato humano es muy importante. Además, en un corto periodo de tiempo esperamos tener unas oficinas donde puedas ir a trabajar siempre que lo necesites.
+Esto es porque nos gusta juntarnos de vez en cuando. En una *startup* joven, creemos que el trato humano es muy importante. Además, en un corto periodo de tiempo esperamos tener unas oficinas donde puedas ir a trabajar siempre que lo necesites.
 
 ## ¿Cuándo?
 
@@ -75,7 +75,7 @@ El calendario laboral es el de la ciudad de Barcelona, así que tienes que tener
 
 ## ¿Qué buscamos?
 
-Sabemos que esto es como una carta a los reyes magos. No esperamos que pilotes todos estos temas. Pero sí que nos gustaría que te interesaran:
+Entendemos que esto es como una carta a los reyes magos. No esperamos que pilotes todos estos temas. Pero sí que nos gustaría que te interesaran:
 
 - Conocimiento de .net 6 y C#
 - Conocimiento de vue 3 y typescript
